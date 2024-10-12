@@ -1,2 +1,2 @@
 print('skibidi')
-print('sigmas')
+print('sigma')
